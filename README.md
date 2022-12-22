@@ -49,3 +49,10 @@ Am awesome and well maintained package for creating flutter carousels. The compl
 
 
 ### Awesome icons are from [Flaticon](https://www.flaticon.com/free-icons)
+
+
+# Output
+
+![Simulator Screen Shot - iPhone 13 - 2022-12-23 at 02 57 45](https://user-images.githubusercontent.com/98651593/209239977-7ea1d3a5-c25b-410b-8263-d78a111db08b.png)
+![Simulator Screen Shot - iPhone 13 - 2022-12-23 at 02 58 11](https://user-images.githubusercontent.com/98651593/209239979-7dc3a0cc-dbf4-4aa6-bb1c-105362a39a6c.png)
+
